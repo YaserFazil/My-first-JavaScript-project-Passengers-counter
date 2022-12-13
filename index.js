@@ -17,5 +17,5 @@ function save() {
 
 function reset() {
     saveEl.textContent = "Previous entries:"
-    countEl.textContent = 0
+    countEl.textContent = count = 0
 }
